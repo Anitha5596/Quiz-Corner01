@@ -23,6 +23,7 @@ class ProfileFragment : Fragment() {
     private lateinit var firebaseAuth: FirebaseAuth
 
 
+    // sample comment to see the git working or not !! 
     @SuppressLint("MissingInflatedId")
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
