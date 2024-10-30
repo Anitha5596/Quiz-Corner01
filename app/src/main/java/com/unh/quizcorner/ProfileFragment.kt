@@ -21,7 +21,11 @@ import com.google.firebase.auth.FirebaseUser
 class ProfileFragment : Fragment() {
 
     private lateinit var firebaseAuth: FirebaseAuth
-    
+
+
+
+    // made some changes ...
+    // bngfgdgbchgfhg   77777
     @SuppressLint("MissingInflatedId")
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
